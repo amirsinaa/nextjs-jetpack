@@ -1,0 +1,43 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# cache directories
+Thumbs.db
+*.DS_Store
+*.empty
+
+#phpstorm project files
+.idea
+.phpintel
+
+# sass cache files
+*.sass-cache
+
+
+#config files
+.env
+
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js
+/.next/
+/out/
+
+# Production
+/build
+/dist
+/storybook-static
+/__mocks__
+
+# MISC
+.DS_Store
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
