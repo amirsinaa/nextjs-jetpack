@@ -1,0 +1,12 @@
+{
+  "loader": true,
+  "localeDetection": false,
+  "locales": ["fa", "en"],
+  "defaultLocale": "fa",
+  "pages": {
+    "*": ["common", "header", "footer"],
+    "/": ["home"],
+    "/404": ["error"],
+    "/about": ["about"]
+  }
+}
