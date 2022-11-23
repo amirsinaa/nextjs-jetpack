@@ -94,11 +94,6 @@ npm run storybook
 
 For running storybook
 
----
-
-id: structure
-title: Structure
----
 
 ## Structure
 
