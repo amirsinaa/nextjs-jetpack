@@ -416,3 +416,11 @@ export const Dashboard: NextPage = () => {
     )
 }
 ```
+
+
+
+## Todo 
+1. Add Next-auth to handle authentication
+    * add a protected route
+2. Add a sample blog module using `jsonplaceholder.typicode.com`
+    * demonstrate different nextjs data fetching methods `SSR`,`CSR`,`ISR`
