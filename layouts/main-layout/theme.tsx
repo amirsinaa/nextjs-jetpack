@@ -27,8 +27,12 @@ export const theme = extendTheme({
       800: "#ffffff"
     },
     nextjp: {
-      100: "#299DA7",
-      200: "#1C274D",
+      100: "#A4BE7B",
+      200: "#285430",
+    },
+    reactquery: {
+      100: "#FF4154",
+      200: "#ffffff"
     },
     typescript: {
       100: "#3178C6",
