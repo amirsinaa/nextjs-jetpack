@@ -115,7 +115,6 @@ modules/
     ├── layout/
     └── rtl-provider/
 pages/
-├── dashboard/
 ├── _app.tsx
 ├── _document.tsx
 ├── _error.tsx
