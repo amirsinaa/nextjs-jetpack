@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amirsinaa/nextjs-jetpack/develop/public/static/images/image-placeholder.png" />
+</p>
+
 # Nextjs Jetpack
 
 Nextjs jetpack is an advanced full-featured, ready-for-production starter to boilerplate your new project with it.
@@ -419,7 +423,7 @@ export const Dashboard: NextPage = () => {
 
 
 
-## Todo 
+## Todo
 1. Add Next-auth to handle authentication
     * add a protected route
 2. Add a sample blog module using `jsonplaceholder.typicode.com`
