@@ -26,7 +26,7 @@ export const theme = extendTheme({
       200: "#800000",
       800: "#ffffff"
     },
-    ucms: {
+    nextjp: {
       100: "#299DA7",
       200: "#1C274D",
     },
@@ -34,17 +34,9 @@ export const theme = extendTheme({
       100: "#3178C6",
       200: "#444D81"
     },
-    apollographql: {
-      100: "#6516BF",
-      200: "#DB5098",
-    },
     framermotion: {
       100: "#9A1BE3",
       200: "#C013C5",
-    },
-    gql: {
-      100: "#E10098",
-      200: "#171E26",
     },
     js: {
       100: "#E9D24E"
